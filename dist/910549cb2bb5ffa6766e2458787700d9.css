@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.content{
+    position: relative;
+    height: 90vh;
+    width: 90%;
+    background-color: #ccc;
+}
+.myCanvas:hover{
+    border:1px solid #cc2d09;
+}
+#downLoad{
+    position: absolute;
+    top:0;
+    left:0;
+    z-index: 9999;
+}
